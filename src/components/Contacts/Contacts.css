@@ -1,0 +1,17 @@
+.contacts__table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 1rem;
+}
+.contacts__table-header-cell {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0.5rem;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+.contacts__table-cell {
+  padding: 0.5rem;
+  text-align: left;
+}/*# sourceMappingURL=Contacts.css.map */

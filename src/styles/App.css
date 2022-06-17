@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1600px;
+  margin: 0 auto;
+  gap: 3vw;
+  font-family: "Courier New", Courier, monospace;
+}/*# sourceMappingURL=App.css.map */
