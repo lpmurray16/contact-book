@@ -6,4 +6,5 @@
   margin: 0 auto;
   gap: 3vw;
   font-family: "Courier New", Courier, monospace;
+  flex-wrap: wrap;
 }/*# sourceMappingURL=App.css.map */
